@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <>
       <Navbar />
-      <div className="py-16">
+      <div className="">
         <Home />
       </div>
       <Footer />
