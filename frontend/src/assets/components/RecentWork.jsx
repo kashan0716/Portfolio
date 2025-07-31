@@ -60,7 +60,7 @@ const projects = [
       "Icons",
       "Tailwind",
     ],
-    link: "",
+    link: "https://github.com/kashan0716/ToDo",
     demo: "",
   },
 ];
